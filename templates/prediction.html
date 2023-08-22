@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Breast Cancer Prediction Result</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/prediction.css') }}">
+</head>
+<body>
+    <h1>Cancer Prediction Result</h1>
+    <div class="result">
+      <p class="prediction">Prediction : {{ prediction }}</p>
+      <p class="probability">Probability : {{ probability }}</p>
+    </div>
+</body>
+</html>
