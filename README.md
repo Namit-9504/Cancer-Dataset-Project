@@ -33,10 +33,10 @@ Address to run this application : [http://127.0.0.1:5000/](http://127.0.0.1:5000
 # Project UI
 
 Screenshot 1: 
-![UI1](UserInterface\ScreenShot1.jpeg)
+![UI1 ](UserInterface/ScreenShot1.jpeg)
 
 Screenshot 2 (Submit Button):
-![UI2](UserInterface/ScreenShot2.jpg)
+![UI2 ](UserInterface/ScreenShot2.jpeg)
 
 Output Page Shows Prediction and Probability as below:
 ![OUTPUT IMG](UserInterface/OUTPUT.jpeg)
